@@ -1,2 +1,2 @@
 # PruebaGenSara
-Archico inicial para app
+Archivo inicial para app
